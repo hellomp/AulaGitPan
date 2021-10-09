@@ -1,0 +1,14 @@
+3. Faça um algoritmo que mostre o passo a passo para acessar um computador.
+
+	1 - Verificar se o computador está na tomada
+	2 - Se não estiver na tomada
+		2.1 - Colocar o computador na tomada
+	3 - Apertar o botão de ligar
+	4 - Conferir se o LED do computador acende
+		4.1 - Se o LED não acender, conferir o cabo novamente
+	5 - Quando aparecer a tela de login, digitar o usuário e a senha
+	6 - Se o usuário ou senha estiverem errados
+		6.1 - Conferir usuário e senha
+	7 - Esperar a área de trabalho aparecer
+	8 - Usar o computador
+	9 - Fim
